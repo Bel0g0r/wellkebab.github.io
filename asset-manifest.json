@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/wellkebab.github.io/static/css/main.8c556cd3.css",
+    "main.js": "/wellkebab.github.io/static/js/main.52119c92.js",
+    "static/js/356.cfd39eb1.js": "/wellkebab.github.io/static/js/356.cfd39eb1.js",
+    "static/media/MaterialCommunityIcons.ttf": "/wellkebab.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/Ionicons.ttf": "/wellkebab.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/MaterialIcons.ttf": "/wellkebab.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/wellkebab.github.io/static/media/OpenSans-SemiBold.029b9bc9d72f4d799803.ttf",
+    "static/media/FontAwesome5_Solid.ttf": "/wellkebab.github.io/static/media/FontAwesome5_Solid.07c3313b24f7b1ca85ee.ttf",
+    "static/media/FontAwesome.ttf": "/wellkebab.github.io/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/FontAwesome5_Brands.ttf": "/wellkebab.github.io/static/media/FontAwesome5_Brands.9e138496e8f1719c6ebf.ttf",
+    "static/media/OpenSans-Bold.ttf": "/wellkebab.github.io/static/media/OpenSans-Bold.dbb97fd982ce1b96b6de.ttf",
+    "static/media/OpenSans-Regular.ttf": "/wellkebab.github.io/static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
+    "static/media/AntDesign.ttf": "/wellkebab.github.io/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "static/media/Entypo.ttf": "/wellkebab.github.io/static/media/Entypo.fc6169344c041cffcdae.ttf",
+    "static/media/Feather.ttf": "/wellkebab.github.io/static/media/Feather.0f5d9cede2e831f3fc80.ttf",
+    "static/media/FontAwesome5_Regular.ttf": "/wellkebab.github.io/static/media/FontAwesome5_Regular.1017bce89c72f95bcf8e.ttf",
+    "favicon.ico": "/wellkebab.github.io/favicon.ico",
+    "static/media/phone_call_icon.png": "/wellkebab.github.io/static/media/phone_call_icon.a40e7e0ac0d6246d9800.png",
+    "index.html": "/wellkebab.github.io/index.html",
+    "static/media/ajax-loader.gif": "/wellkebab.github.io/static/media/ajax-loader.fb6f3c230cb846e25247.gif",
+    "static/media/slick.svg": "/wellkebab.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/wellkebab.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/wellkebab.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/wellkebab.github.io/static/media/slick.295183786cd8a1389865.woff",
+    "favicon-32.png": "/wellkebab.github.io/favicon-32.png",
+    "postMock.html": "/wellkebab.github.io/postMock.html",
+    "manifest.json": "/wellkebab.github.io/manifest.json",
+    "favicon-16.png": "/wellkebab.github.io/favicon-16.png",
+    "serve.json": "/wellkebab.github.io/serve.json",
+    "main.8c556cd3.css.map": "/wellkebab.github.io/static/css/main.8c556cd3.css.map",
+    "main.52119c92.js.map": "/wellkebab.github.io/static/js/main.52119c92.js.map",
+    "356.cfd39eb1.js.map": "/wellkebab.github.io/static/js/356.cfd39eb1.js.map"
+  },
+  "entrypoints": [
+    "static/js/356.cfd39eb1.js",
+    "static/css/main.8c556cd3.css",
+    "static/js/main.52119c92.js"
+  ]
+}

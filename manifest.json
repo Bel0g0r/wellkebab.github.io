@@ -1,0 +1,21 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "WellKebab",
+  "short_name": "WellKebab",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "ru.pixelcrm.app.wellkebab"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=ru.pixelcrm.app.wellkebab",
+      "id": "ru.pixelcrm.app.wellkebab"
+    }
+  ],
+  "prefer_related_applications": true
+}
